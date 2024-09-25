@@ -1,0 +1,521 @@
+Dataset,Measurement date,Measurement series,Clone,growth CO2,leaf code,PFD,A,Ci,Ca,Tleaf
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,999.4,3.315759333,282.4768667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,1499.6,3.132248667,282.1495667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,799.1,2.674913,274.8341333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,399.6,2.016739333,278.2259667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,199.3,1.233602667,299.4011667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,99.6,0.615253033,322.4836,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,49.8,0.088838263,346.0734,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,19.9,-0.896509533,413.5467,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,0.6,-2.131897667,507.7234333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,999.4,14.144838,453.41048,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,1499.6,15.59294333,479.3245,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,799.1,14.17525333,473.2258,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,399.6,10.64459,511.6333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,199.3,6.03332,588.2274333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,119.6,3.747353,628.2768667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,59.8,1.586849,668.7443333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,29.9,0.563841633,690.9975333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,12,-0.428921867,712.4223667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 1,0.6,-1.402610333,739.3338333,720,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,501.1,4.489185,235.24295,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,999.8,4.88380075,224.492625,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,1499.7,4.8503905,216.91485,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,799.2,4.65587975,226.769575,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,400.2,4.2272755,243.7734,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,199.5,3.3564135,269.68255,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,99.7,2.26945275,299.787925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,49.9,1.2340635,330.96965,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,19.7,0.164940725,364.2962,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,0,-0.7541979,395.484075,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,5.12483125,207.06035,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,4.9039015,220.557375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,6.04193175,256.889375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,501.1,5.14313825,238.7988,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,9.4043005,222.2961,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,999.8,10.915025,208.864475,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,1499.7,11.29061,210.869925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,799.2,10.742415,213.958525,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,399,8.94976725,234.809925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,199.5,6.06643025,276.370525,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,99.7,3.501034,313.5943,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,49.9,1.626597,343.0719,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,19.7,0.18383915,367.103675,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,0,-0.787934075,384.58545,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,8.05383575,193.3599,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,9.4043005,222.2961,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,5.390114,222.407775,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,999.8,5.87499175,212.139975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,1499.7,5.991635,210.5838,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,799.2,5.821308,215.6212,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,399,5.13678325,232.529975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,199.5,3.99062,262.0268,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,99.7,2.5886685,298.4638,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,49.9,1.39278475,329.5978,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,19.7,0.227952425,361.381,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,0,-0.7387132,387.59365,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,6.142551,203.108925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,5.8565075,209.2906,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,5.540618,206.69565,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,501.1,6.24703775,210.116775,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,5.879032,191.6162,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,999.8,5.8793685,188.971075,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,1499.7,5.51344825,187.372,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,799.2,5.18875325,183.2316,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,399,4.828346,188.040825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,199.5,4.039193,206.097425,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,99.7,2.869918,240.62825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,49.9,1.7165405,282.87325,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,19.7,0.575389825,337.456,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,0,-0.344072075,391.8206,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,6.39610775,202.34855,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,5.49619475,192.633525,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,6.02128725,200.3359,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,499.9,4.494353,171.864925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,999.8,4.639819,173.229875,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,1499.7,4.72919875,176.215875,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,799.2,4.7612635,172.9676,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,799.2,4.6830175,155.44895,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,399,4.45572225,169.61825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,199.5,3.7518,201.3981,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,99.7,2.7712065,241.600925,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,49.9,1.721116,286.45165,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,19.7,0.6245529,336.514325,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,0,-0.3162965,387.222275,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,499.9,4.05362025,155.4165,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,379.3,3.4079615,153.36235,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,379.3,4.81213575,162.932975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,498.7,4.59882225,76.2561625,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,599.7,6.7846285,185.1005,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,999.8,6.99188175,177.612375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,1499.7,6.91310475,179.4573,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,799.2,6.6241485,179.44435,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,399,5.9648715,187.776675,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,199.5,4.820694,217.75255,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,99.7,3.17415625,262.571175,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,49.9,1.83595275,303.1816,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,19.7,0.618274125,346.052275,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,0,-0.48150035,391.230375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,7.50433,199.51235,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,6.925077,186.829825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,6.201014,185.085775,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,7.849747,206.424425,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,7.00984275,201.469875,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,7.14191875,197.9495,380,30
+GCB 2012,2009.March,,H55,ambient,NA,0,-0.177311671,377.74925,380,28
+GCB 2012,2009.March,,H55,ambient,NA,11.95668,0.443083349,359.2208667,380,28
+GCB 2012,2009.March,,H55,ambient,NA,29.8917,1.005118655,346.70255,380,28
+GCB 2012,2009.March,,H55,ambient,NA,59.78339,1.890484664,326.8114667,380,28
+GCB 2012,2009.March,,H55,ambient,NA,119.5668,3.068552145,300.73575,380,28
+GCB 2012,2009.March,,H55,ambient,NA,199.278,3.809924055,283.3995,380,28
+GCB 2012,2009.March,,H55,ambient,NA,399.5523,4.174074284,273.6374,380,28
+GCB 2012,2009.March,,H55,ambient,NA,799.1047,4.211426708,268.85995,380,28
+GCB 2012,2009.March,,H55,ambient,NA,1499.567,4.190137437,261.7955,380,28
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,998.4,12.10522667,449.2605667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,1499.6,12.22866,465.2024,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,799.1,11.18846667,446.7148,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,399.6,8.961990667,466.0534667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,199.3,5.660882667,536.5124333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,99.6,3.009209,600.7529333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,49.8,0.824866667,669.3332,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,19.9,-0.298046267,715.6433,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,ambient,ch.1-leaf 2,0,-1.745713,790.0953333,720,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,1499.7,9.86742325,487.894375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,999.8,9.6255395,497.3694,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,799.2,9.293824,494.755325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,399,8.00029625,536.929975,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,199.5,6.05362025,590.053625,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,99.7,3.8658725,653.0326,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,49.9,2.205776,697.3016,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,19.7,0.708716375,738.7337,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,0,-0.464692625,772.55725,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,8.61774725,458.7024,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,7.8475875,445.80255,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1-leaf 1,499.9,10.41005,562.116275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,999.8,17.238235,365.16935,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,1499.7,18.032495,351.611,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,799.2,16.658925,375.140925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,399,13.2370725,443.0879,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,199.5,8.49910425,551.980875,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,99.7,4.742798,639.5922,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,49.9,2.29882875,697.7292,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,19.7,0.49974925,745.042925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,0,-0.558626525,776.0925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,14.54105,404.5919,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,12.69525,404.374675,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,14.1376275,410.20425,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,16.6159775,478.5148,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1 -leaf2,499.9,14.84349,414.6566,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,999.8,11.807875,446.5459,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,1499.7,12.3235025,439.40805,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,800.3,11.60038,456.509325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,399,9.68254025,505.890375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,199.5,6.858083,582.011475,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,99.7,4.28484825,646.360425,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,49.9,2.3560135,696.32775,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,19.7,0.7594482,738.309625,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,0,-0.222163,764.155575,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,11.4955025,441.62485,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,10.923265,447.336025,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,501.1,11.38253,469.53815,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,501.1,11.0485475,478.121,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.1. leaf3,499.9,10.7212775,484.414325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,999.8,11.03625,373.367275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,1499.7,10.198975,343.58285,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,799.2,9.21173725,324.48205,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,399,8.08420225,342.4179,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,199.5,6.248166,408.4108,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,99.7,4.30242075,486.636775,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,49.9,2.4851405,581.775125,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,19.7,0.952129775,682.4828,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,0,-0.044396763,762.8486,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,9.28019725,321.8786,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,7.266361,306.5502,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf1,499.9,10.981825,445.3147,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,999.8,8.87008525,269.010825,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,1499.7,8.978247,284.299375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,799.2,8.99306575,278.638,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,399,8.2679515,296.342675,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,199.5,6.68966625,354.685275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,99.7,4.5187355,480.31265,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,49.9,2.838213,575.5915,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,20.9,1.29295425,665.9251,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,0,-0.09176152,-0.09176152,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,499.9,9.1050035,349.705475,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,499.9,9.01110075,336.75615,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,379.3,9.39073625,333.2332,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3 -leaf2,499.9,8.50176825,285.2977,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,999.8,15.3107175,370.718525,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,1498.6,15.62999,357.385725,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,798,14.44935,372.295575,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,399,11.6827575,429.596525,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,199.5,8.188095,517.460325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,99.7,4.915,606.1763,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,49.9,2.5659435,673.974025,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,19.7,1.21196325,715.043,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,0.9,-0.181838133,768.0713,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,501.1,12.935795,397.618075,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,11.64255667,376.5495333,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,13.887735,454.111725,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,ambient,ch.3-leaf3,499.9,13.320685,431.542,780,30
+GCB 2012,2009.April,,H55,ambient,NA2,0,-0.5747548,743.8134,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,12,0.1553626,732.5851,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,30,0.9119091,721.8966,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,60,2.140841,703.2859,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,120,4.154774,673.8626,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,200,6.586025,639.3228,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,400,10.0202,592.4283,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,800,12.32762,557.8414,750,28
+GCB 2012,2009.April,,H55,ambient,NA2,1500,13.45366,538.301,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,0,-0.26074354,743.10795,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,11.95668,0.496686832,719.17365,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,29.8917,1.304106216,696.65535,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,59.78339,2.542308119,661.51525,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,119.5668,4.321829164,612.9288,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,199.278,5.893798429,569.8664,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,399.0541,6.9533423,537.95995,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,799.1047,7.255899954,521.89855,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,999.628,7.392838928,514.5559333,750,28
+GCB 2012,2009.March,,H55,ambient,NA3,1499.567,7.759504353,497.30905,750,28
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),999.4,3.869258333,295.5359667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),1499.6,3.914304167,301.2654667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),799.1,3.687927,298.3808,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),399.6,3.971,286.2980667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),199.3,2.590594667,308.2760667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),119.6,1.419235,320.3819333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),59.8,0.434894675,338.783025,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),29.9,-0.0716434,356.1249667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),12,-0.260382733,354.5571,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),0,-0.8275534,373.5374333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,999.4,1.316045,318.819225,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,1499.6,1.788844667,317.9837,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,799.1,1.9510385,314.6831,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,399.6,1.82736,313.2303,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,199.3,1.244807,322.96805,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,99.6,0.850378833,330.9812,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,49.8,-0.2899138,350.53285,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,0.6,-1.613073,372.47325,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,998.4,8.379650333,226.4233667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,1499.6,9.306810333,235.7865333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,799.1,8.701347667,233.9571,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,399.6,6.726665333,257.2931,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,199.3,4.010571,292.4994667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,119.6,2.358632,315.0243,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,59.8,0.9896639,335.167,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,29.9,0.231670567,346.3115333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,12,-0.259391,352.5518667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,0,-0.777542033,362.4195,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,999.4,6.795172,242.8352667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,1499.6,7.080238333,251.903,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,799.1,6.883574,247.9650667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,399.6,5.723876,262.5882,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,199.3,3.501691333,293.9724333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,119.6,2.035154,313.2967,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,59.8,0.539824767,337.5358333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,29.9,-0.271414067,353.2875667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,12,-0.843026433,368.2178333,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,0,-1.427283333,391.9003667,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,730.1,4.11,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,1044,4.09,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,591,3.92,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,297.6,3.45,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,150.1,2.77,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,89.5,1.77,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,44.5,0.99,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,21.3,0.56,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,8.1,-0.08,,360,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,0,-0.88,,360,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,7.56354625,238.8418,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,999.8,8.5522305,227.0386,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,1499.7,8.8540175,226.52105,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,800.3,8.36004575,231.531325,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,399,7.15612325,249.789825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,199.5,5.4322025,274.93575,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,99.7,3.4307535,307.375075,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,49.9,1.89371775,334.276375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,19.7,0.5246434,359.264625,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,0,-0.4294713,379.2746,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,7.44776925,233.952175,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,7.427927,243.21215,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,7.18474425,246.410275,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,501.1,7.82621775,271.004225,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,6.46294,252.7879,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,7.56354625,238.8418,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,8.29522475,251.529475,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,999.8,9.481546,243.6086,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,1499.7,9.95864625,240.321375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,799.2,9.27484125,247.623375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,399,7.778644,264.820025,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,199.5,5.7685465,289.5035,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,99.7,3.69666075,315.3078,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,49.9,2.11032975,336.830375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,19.7,0.537096975,361.00665,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,0,-0.58233825,381.3882,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,9.2704225,262.41255,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,8.9919585,262.72405,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,9.2839415,278.514975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,8.394484,254.5696,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,6.52061175,249.426975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,999.8,7.27274175,241.114225,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,1499.7,7.54510075,237.787625,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,799.2,7.185597,250.83025,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,399,6.22032275,268.138025,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,199.5,4.73299825,293.156025,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,99.7,3.02193075,320.56555,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,49.9,1.65654375,342.78325,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,19.7,0.41671075,363.477425,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,0,-0.623926925,381.445525,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,6.749705,234.389275,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,6.62489575,240.1306,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,6.99188025,262.192525,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,999.8,6.447591,171.5153,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,1500.9,6.694191333,160.7183333,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,799.2,6.5251415,187.90745,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,399,5.833281,206.4296,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,199.5,4.5984275,237.1058,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,99.7,2.954503,286.2544,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,49.9,1.602268,322.7585,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,19.7,0.1853788,364.1792,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,0,-0.7590703,394.0017,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,998.6,7.4045115,203.25325,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,1499.7,7.808591,209.412875,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,799.2,7.468042,208.864975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,399,6.45324,224.460225,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,199.5,4.7703535,257.8004,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,99.7,2.98550875,295.4855,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,49.9,1.47287175,331.525725,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,19.7,0.005126759,369.34185,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,0,-1.098427,401.212975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,11.5794275,260.77085,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,999.8,14.43746,237.473175,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,1499.7,15.4505625,233.86165,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,799.2,13.9482675,258.973175,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,400.2,10.7137525,276.88815,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,200.7,6.89287125,309.02635,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,99.7,3.80272725,335.611,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,49.9,1.71730375,353.9561,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,19.7,0.17938975,368.1704,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,0,-0.8475788,378.4457,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,11.649455,259.174075,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,501.1,11.5755475,267.601975,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,11.6725725,261.07875,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,11.5794275,260.77085,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,10.78847556,252.9745333,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,999.8,12.98888375,241.7310375,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,1499.7,14.26633,237.20725,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,799.2,12.798095,246.299825,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,399,9.94347875,268.748575,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,199.5,6.4578785,303.631575,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,99.7,3.5721225,330.42405,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,49.9,1.5389715,352.1902,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,19.7,-0.003234253,370.08675,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,0,-1.19063925,385.279,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,498.7,10.00223825,241.096775,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,11.439405,255.0864,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,10.8181925,256.1984,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,10.78847556,252.9745333,380,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,498.7,10.00223825,241.096775,380,30
+GCB 2012,2009.March,,H55,elevated,2009.March,0.30677025,-0.982803,389.3646,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,11.95668,-0.40483105,377.61385,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,29.8917,0.37483175,368.65275,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,59.78339,1.4927315,355.5024,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,119.5668,3.301485,335.87695,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,199.278,5.2478135,314.81175,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,399.5523,7.694641,284.1385,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,799.6029,8.542831,268.6893,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,999.379,8.6956045,264.51125,380,28
+GCB 2012,2009.March,,H55,elevated,2009.March,1499.0685,8.602557,257.2076,380,28
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),999.4,14.63541,511.9167,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),1499.6,15.39661,512.62885,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),799.1,14.55979,498.1923667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),399.6,11.04257667,533.1656,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),199.3,6.568473667,594.9102667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),119.6,4.250915,626.6024667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),59.8,2.2541025,656.95685,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),29.9,1.034171733,676.8228,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),12,-0.1045303,698.5206,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf0(older),0.6,-0.9121934,718.1922,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,999.4,11.00694,502.2105667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,1499.6,11.33990333,502.1297333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,800.1,10.76287,485.3203,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,399.6,7.676922667,530.0144,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,199.3,4.666172333,585.5361333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,119.6,2.5262175,629.51925,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,59.8,1.3216625,655.22415,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,29.9,0.4370926,680.3999,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,12,0.095914905,686.01595,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2 -leaf1,0.6,-0.9719381,729.5835,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,999.4,13.9577,382.1005333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,1499.6,15.42178667,409.2794333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,799.1,14.06841333,415.9145667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,199.3,5.863436,566.2341667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,399.6,10.02103,477.1336,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,119.6,3.662252667,609.4514333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,59.8,1.650574333,656.8019,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,29.9,0.5006985,686.5842667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,12,-0.13341011,703.2805333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf2,0.6,-0.506475567,710.8122333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,999.4,20.08498667,452.7335667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,1499.6,20.92183,445.7896333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,799.1,17.95219333,435.5316667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,399.6,12.34943667,466.0987333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,200.3,7.075783667,522.5662667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,119.6,4.032736,576.6445,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,59.8,1.763311667,626.6553,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,29.9,1.152183667,654.2901333,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.2-leaf3,0,-0.242851133,718.6444667,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,732.1,5.56,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,1044.9,5.73,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,595.1,5.33,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,298.8,4.39,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,150.2,3,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,91,2.04,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,44.1,1.54,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,22,1.12,,720,30
+GCB 2012,2011.6-7,first cycle,H200 clone,elevated,ch.4-leaf1,0,-0.69,,720,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,999.8,14.2851625,516.284225,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,1499.7,15.0916675,498.566525,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,799.2,13.3666125,510.1433,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,399,10.75367,549.396825,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,199.5,7.73263125,600.392025,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,99.7,4.74302725,654.33965,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,49.9,2.874662,691.9494,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,19.7,1.12579725,730.6125,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,0,-0.185360525,764.7484,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,12.16977,555.5731,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,11.77541,552.44565,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,12.3098725,594.82275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf1,499.9,12.186195,523.043175,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,999.8,14.7868875,519.919025,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,1499.7,15.363815,494.912325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,799.2,13.869465,504.981975,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,399,11.2757075,537.250425,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,199.5,8.162455,587.171075,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,99.7,5.23117475,635.589725,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,49.9,2.96726225,680.506975,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,19.7,1.21759575,723.0906,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,0,-0.22824995,765.5456,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,12.876105,571.01405,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,12.89008,572.99735,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,12.7930125,571.76705,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf2,499.9,12.24634,531.814375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,999.8,11.2659625,518.391525,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,1499.7,11.7314975,501.52015,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,799.2,10.6372075,527.324075,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,399,8.9694445,562.269425,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,199.5,6.63781975,608.418625,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,99.7,4.33980475,652.241925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,49.9,2.47063975,698.027075,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,19.7,0.7741019,739.508375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,0,-0.258924325,766.294525,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,10.83045,570.8614,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,10.8024825,587.110325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.2-leaf3,499.9,9.63530875,558.395925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,999.8,13.05732333,320.0166667,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,1499.7,13.27189333,306.8808667,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,799.2,12.58994667,339.0498333,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,399,10.61332333,401.1095333,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,199.5,7.813393333,486.0280333,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,99.7,4.787316667,583.9941,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,49.9,2.847116333,652.6423667,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,19.7,0.8270688,726.2979,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf1,0.9,-0.4892746,778.1602,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,499.9,12.156828,443.13226,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,999.8,14.037052,412.19998,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,1499.7,14.964698,407.67528,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,799.2,13.870382,417.57692,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,399,11.297946,472.06734,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,199.5,7.9171514,554.53772,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,99.7,4.7236732,634.6041,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,48.7,2.3411955,695.5987,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,19.7,0.456167325,745.795075,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,0,-0.7672033,779.590575,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf2,499.9,11.639275,437.7877,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,999.8,22.661045,478.223975,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,1499.7,25.238125,462.157775,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,799.2,21.3634775,502.394275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,399,15.237535,567.17995,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,199.5,9.3603385,634.11365,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,99.7,5.1164345,687.394,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,49.9,2.45406475,723.3284,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,19.7,0.54196015,751.83965,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,0,-0.657573375,770.908375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,17.3804725,522.5124,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,16.9338825,529.249375,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,18.4393975,617.944275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf4,499.9,17.5308,537.495875,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,999.8,21.29198,415.71285,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,1500.9,23.41175,382.19925,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,799.2,20.2302575,453.921125,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,399,14.5417725,538.824325,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,199.5,8.90606975,616.79105,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,99.7,4.8259125,660.9793,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,49.9,1.95344825,702.112775,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,19.7,0.519421225,741.793275,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,0,-0.410047922,771.0645556,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,13.76180111,441.8647778,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,17.8533125,581.6023,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,17.446025,572.2877,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,17.64029,546.684175,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,17.9234075,602.386975,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,16.32614,472.557675,780,30
+GCB 2012,2011.Auguest,second cycle,H200 clone,elevated,ch.4-leaf5,499.9,16.79283,544.9445,780,30
+GCB 2012,2009.April,,H55,elevated,2009.April,0,-0.552716468,744.3169,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,12,0.15640561,732.2063,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,30,0.915808519,720.9105,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,60,2.132774026,704.3176,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,120,4.205787013,676.2805,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,200,6.493883636,645.8822,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,400,9.371799481,606.9272,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,800,10.32301091,594.8266,750,28
+GCB 2012,2009.April,,H55,elevated,2009.April,1500,11.00408312,581.0248,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,0,-0.8934768,777.6469,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,11.95668,-0.1197996,738.525,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,29.8917,0.5610149,715.8413,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,59.78339,1.9849545,684.7426,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,119.5668,4.338837,648.2924,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,198.9458667,6.800517,614.6022,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,399.5523,10.987195,544.3835,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,799.1047,13.26392,492.7482,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,999.3789,12.76296667,463.3155667,750,28
+GCB 2012,2009.March,,H55,elevated,2009.March,1499.899,13.83036,444.7997,750,28
