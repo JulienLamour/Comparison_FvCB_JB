@@ -23,4 +23,43 @@ Johnson JE, Berry JA. 2021. The role of Cytochrome b6f in the control of steady-
 
 Johnson JE, Field CB, Berry JA. 2021. The limiting factors and regulatory processes that control the environmental responses of C3, C3–C4 intermediate, and C4 photosynthesis. Oecologia 197: 841–866.
 
+### Dataset references
+
+Burnett AC, Davidson KJ, Serbin SP, Rogers A. 2019. The “one-point method” for estimating maximum carboxylation capacity of photosynthesis: A cautionary tale. Plant, Cell & Environment 42: 2472–2481.
+
+Davidson K, Ely K, Anderson J, Rogers A, Serbin S. 2024. Photosynthetic and stomatal response, and leaf traits, of two pine species, Talladega National Forest, Alabama, 2023. Crossing the boundary: characterization of vegetation properties to improve the coupled model representation of the land-atmosphere interface, ESS-DIVE repository. Dataset. Accessed at https://doi.org/10.15485/2332922.
+
+Davidson KJ, Lamour J, McPherran A, Rogers A, Serbin SP. 2023. Seasonal trends in leaf-level photosynthetic capacity and water use efficiency in a North American Eastern deciduous forest and their impact on canopy-scale gas exchange. New Phytologist 240: 138–156.
+
+Davidson KJ, Lamour J, Rogers A, Serbin SP. 2022. Late-day measurement of excised branches results in uncertainty in the estimation of two stomatal parameters derived from response curves in Populus deltoides Bartr. × Populus nigra L. Tree Physiology 42: 1377–1395.
+
+Ely K, Yang D, Anderson J, Serbin S, Rogers A. 2024. Plant physiology, shrub size, thaw depth and soil water content, Seward Peninsula, Alaska, 2023. Next-Generation Ecosystem Experiments (NGEE) Arctic, ESS-DIVE repository. Dataset. Accessed at https://doi.org/10.15485/2341585.
+
+Fang L, Martre P, Jin K, Du X, van der Putten PEL, Yin X, Struik PC. 2023. Neglecting acclimation of photosynthesis under drought can cause significant errors in predicting leaf photosynthesis in wheat. Global Change Biology 29: 505–521.
+
+Lamour J, Davidson KJ, Calderón O, Ely KS. 2023. Leaf gas exchange and fitted parameters, two sites in Panama, 2022. Next-Generation Ecosystem Experiments (NGEE) Tropics, ESS-DIVE repository. Dataset. Accessed at https://doi.org/10.15486/ngt/1896884.
+
+Lamour J, Davidson KJ, Ely KS, Anderson JA, Rogers A, Wu J, Serbin SP. 2021. Rapid estimation of photosynthetic leaf traits of tropical plants in diverse environmental conditions using reflectance spectroscopy. PLOS ONE 16: e0258791.
+
+Lamour J, Souza D, Gimenez B, Oliveira R, Ely K, Lima Plácido AD, Menezes V, Rogers A. 2024. Leaf gas exchange, leaf water potential and spectral reflectance, BIONTE, Brazil, 2023. NGEE Tropics Data Collection. Accessed at https://doi.org/10.15486/ngt/2337880.
+
+Niinemets Ü, Sun Z, Talts E. 2015. Controls of the quantum yield and saturation light of isoprene emission in different-aged aspen leaves. Plant, Cell & Environment 38: 2707–2720.
+
+Niinemets Ü, Tenhunen JD, Beyschlag W. 2004. Spatial and age-dependent modifications of photosynthetic capacity in four Mediterranean oak species. Functional Plant Biology 31: 1179–1193.
+
+Niinemets Ü, Tenhunen JD, Canta NR, Chaves MM, Faria T, Pereira JS, Reynolds JF. 1999. Interactive effects of nitrogen and phosphorus on the acclimation potential of foliage photosynthetic properties of cork oak, Quercus suber, to elevated atmospheric CO2 concentrations. Global Change Biology 5: 455–470.
+
+Perez RPA, Vezy R, Bordon R, Laisné T, Roques S, Rebolledo M-C, Rouan L, Fabre D, Gibert O, De Raissac M. 2024. Combining modeling and experimental approaches for developing rice–oil palm agroforestry systems. Journal of Experimental Botany: erae137.
+
+Rogers A, Serbin SP, Ely KS, Wullschleger SD. 2019. Terrestrial biosphere models may overestimate Arctic CO2 assimilation if they do not account for decreased quantum yield and convexity at low temperature. New Phytologist 223: 167–179.
+
+Schmiege SC, Buckley BM, Stevenson D, Cuong TQ, Nam LC, Griffin KL. 2021. Contrasting physiological traits of shade tolerance in Pinus and Podocarpaceae native to a tropical Vietnamese forest: insight from an aberrant flat-leaved pine. Tree Physiology 41: 223–239.
+
+Schmiege SC, Griffin KL, Boelman NT, Vierling LA, Bruner SG, Min E, Maguire AJ, Jensen J, Eitel JUH. 2023. Vertical gradients in photosynthetic physiology diverge at the latitudinal range extremes of white spruce. Plant, Cell & Environment 46: 45–63.
+
+Sun Z, Niinemets Ü, Hüve K, Noe SM, Rasulov B, Copolovici L, Vislap V. 2012. Enhanced isoprene emission capacity and altered light responsiveness in aspen grown under elevated atmospheric CO2 concentration. Global Change Biology 18: 3423–3440.
+
+Vezy R, Torrelli V, Arsouze T, Perez R. 2024. Compiled database, code and raw data for the article ‘A Comprehensive Database of Leaf Temperature, Water, and CO2 Fluxes in Young Oil Palm Plants Across Diverse Climate Scenarios for the Evaluation of Functional-Structural Models’. Accessed at https://doi.org/10.5281/zenodo.12704284.
+
+Zhou Z, Struik PC, Gu J, van der Putten PEL, Wang Z, Yin X, Yang J. 2023. Enhancing leaf photosynthesis from altered chlorophyll content requires optimal partitioning of nitrogen. Crop and Environment 2: 24–36.
 
